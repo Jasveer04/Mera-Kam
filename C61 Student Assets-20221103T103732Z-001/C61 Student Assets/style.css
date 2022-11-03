@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+    font-family: fantasy;
+    text-decoration-color: aliceblue;
+    text-decoration: underline;
+}
+
+#app {
+    background-color: darkturquoise;
+}
+
+#gamej {
+    background-color: lightcyan;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 0px auto;
+}
+
+#pic {
+    height: 400px;
+    width: 400px;
+}
+
+#pic2 {
+    height: 400px;
+    width: 400px;
+}
